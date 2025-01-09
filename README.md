@@ -1,1 +1,1 @@
-![Channel Art](assets/art.png
+![Channel Art](assets/art.png)
